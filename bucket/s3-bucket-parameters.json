@@ -1,0 +1,11 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdacityUdagramProject"
+    },
+	{
+		"ParameterKey": "NameBucket",
+		"ParameterValue": "aanorbel-udagram-s3-store"
+    }
+
+]
